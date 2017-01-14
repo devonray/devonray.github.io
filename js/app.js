@@ -1,5 +1,10 @@
 (function() {
   var videos = [{
+    videoId: 'CWKn5Yz1jdk',
+    startSeconds: 61,
+    endSeconds: 64,
+    suggestedQuality: 'large',
+  },{
     videoId: 'ZtpKpm32WpQ',
     startSeconds: 107,
     endSeconds: 116,
